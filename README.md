@@ -1,4 +1,4 @@
-# First Group Project 
+
 # Covid City Limits Music
 ![screenshot-127 0 0 1_5502-2020 09 03-17_41_41](https://user-images.githubusercontent.com/60681276/92180682-3cc8ce80-ee0d-11ea-9d8e-5c46090059cd.png)
 
